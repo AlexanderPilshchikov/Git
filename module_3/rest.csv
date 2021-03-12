@@ -1,4 +1,4 @@
 Resraurant_id,meals,rest_adress,rest_coord,rub_max,rub_min
-"147     id_4110
-9446    id_4104
-Name: Restaurant_id, dtype: object","['Breakfast', 'Lunch', 'Dinner']","Calle Espronceda 34, 28003 Madrid Spain","[40.4403981, -3.6949632]",no_info,no_info
+id_8121,['Late Night'],"Plaza Emperador Carlos V 8, 28012 Madrid Spain","[40.4084654, -3.693189]",no_info,no_info
+id_4429,['BreakfastBrunchLunchDinner Breakfast  Brunch  Lunch  Dinner '],no_info,"[70.0732779, 24.26608125]",no_info,no_info
+id_4110,"['Breakfast', 'Lunch', 'Dinner']","Calle Espronceda 34, 28003 Madrid Spain","[40.4403981, -3.6949632]",no_info,no_info
